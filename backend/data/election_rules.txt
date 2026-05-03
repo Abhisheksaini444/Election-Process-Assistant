@@ -1,0 +1,31 @@
+ELECTION RULES AND GUIDELINES:
+
+--- OFFICIAL ELECTION COMMISSION GUIDELINES ---
+
+VOTER REGISTRATION TIMELINE:
+- Step 1: Visit the National Voter Portal online or download the Voter Helpline App.
+- Step 2: Fill out Form 6 (Application for New Voters).
+- Step 3: Upload Proof of Address (Aadhar card, utility bill, or passport) and a recent passport-sized photograph.
+- Step 4: Wait for the Booth Level Officer (BLO) to verify your application physically.
+- Deadline: All new voter registrations MUST be completed by the date notified by election authorities. Applications submitted after the notified deadline are not accepted.
+
+POLLING DAY RULES
+- The official polling date is announced through Election Commission notifications.
+- Polling stations open exactly at 7:00 AM and close exactly at 6:00 PM.
+- Voters must bring their official Voter ID (EPIC card) or one of the 11 alternative approved ID documents (like Aadhar or PAN card).
+- Mobile phones, cameras, and electronic devices are STRICTLY PROHIBITED inside the polling booth.
+- If a voter is in the queue at 6:00 PM, they will be allowed to vote, even if it takes past the closing time.
+- Counting of votes does NOT begin immediately after polling ends on the same day; counting starts on the official counting day notified by the Election Commission.
+
+FINDING YOUR POLLING BOOTH
+- Step 1: Send an SMS to 1950 with the format "ECIPS <space> Your_EPIC_Number".
+- Step 2: Alternatively, log into the Voter Portal and click "Know Your Polling Station".
+- Step 3: Note down the Part Number and Serial Number to show to the polling officer.
+
+MISINFORMATION POLICIES:
+- Ballots cannot be submitted via text message, email, or social media.
+- There is no app for direct voting.
+- Official results are announced only by the Election Commission as per the notified counting schedule.
+
+CANDIDATES:
+- Ensure you verify candidate lists directly from the Election Commission's bulletin board. We do not provide specific names here.

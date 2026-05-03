@@ -1,0 +1,197 @@
+{
+  "sequence": 20,
+  "history": [
+    {
+      "id": "claim-17",
+      "createdAt": "2026-05-03T12:27:07.302Z",
+      "claim": "\"You can vote without any ID proof if you are above 60 years old.\"",
+      "verdict": "False",
+      "explanation": "Voters cannot vote without valid identity proof; there is no age-based exemption from ID requirements.",
+      "confidence": 95,
+      "claimType": "factual",
+      "sourceQuotes": [
+        "- Step 3: Upload Proof of Address (Aadhar card, utility bill, or passport) and a recent passport-sized photograph.",
+        "- Ensure you verify candidate lists directly from the Election Commission's bulletin board. We do not provide specific names here."
+      ]
+    },
+    {
+      "id": "claim-14",
+      "createdAt": "2026-05-03T12:26:50.561Z",
+      "claim": "\"Counting of votes begins immediately after polling ends on the same day.\"",
+      "verdict": "False",
+      "explanation": "Counting does not begin immediately after polling closes. It starts on the official counting day notified by the Election Commission.",
+      "confidence": 85,
+      "claimType": "factual",
+      "sourceQuotes": [
+        "- Counting of votes does NOT begin immediately after polling ends on the same day; counting starts on the official counting day notified by the Election Commission."
+      ]
+    },
+    {
+      "id": "claim-13",
+      "createdAt": "2026-05-03T12:26:38.471Z",
+      "claim": "\"The Election Commission has cancelled postal ballots for senior citizens this year.\"",
+      "verdict": "UNVERIFIED",
+      "explanation": "Unable to fetch real-time sources right now.",
+      "confidence": 40,
+      "claimType": "factual",
+      "sourceQuotes": []
+    },
+    {
+      "id": "claim-10",
+      "createdAt": "2026-05-03T12:07:07.298Z",
+      "claim": "\"You can vote without any ID proof if you are above 60 years old.\"",
+      "verdict": "False",
+      "explanation": "Voters cannot vote without valid identity proof; there is no age-based exemption from ID requirements.",
+      "confidence": 95,
+      "claimType": "factual",
+      "sourceQuotes": [
+        "- Step 3: Upload Proof of Address (Aadhar card, utility bill, or passport) and a recent passport-sized photograph.",
+        "- Ensure you verify candidate lists directly from the Election Commission's bulletin board. We do not provide specific names here."
+      ]
+    },
+    {
+      "id": "claim-9",
+      "createdAt": "2026-05-03T12:06:49.445Z",
+      "claim": "\"Counting of votes begins immediately after polling ends on the same day.\"",
+      "verdict": "False",
+      "explanation": "Counting does not begin immediately after polling closes. It starts on the official counting day notified by the Election Commission.",
+      "confidence": 85,
+      "claimType": "factual",
+      "sourceQuotes": [
+        "- Counting of votes does NOT begin immediately after polling ends on the same day; counting starts on the official counting day notified by the Election Commission."
+      ]
+    },
+    {
+      "id": "claim-8",
+      "createdAt": "2026-05-03T12:06:10.207Z",
+      "claim": "\"Voters can check their name on the electoral roll online through the CEO website.\"",
+      "verdict": "UNVERIFIED",
+      "explanation": "Unable to fetch real-time sources right now.",
+      "confidence": 40,
+      "claimType": "factual",
+      "sourceQuotes": []
+    },
+    {
+      "id": "claim-7",
+      "createdAt": "2026-05-03T12:05:50.516Z",
+      "claim": "\"Nominations for candidates typically close about one week before the polling date.\"",
+      "verdict": "UNVERIFIED",
+      "explanation": "Unable to fetch real-time sources right now.",
+      "confidence": 40,
+      "claimType": "factual",
+      "sourceQuotes": []
+    },
+    {
+      "id": "claim-6",
+      "createdAt": "2026-05-03T12:05:26.221Z",
+      "claim": "\"Only people who have a Voter ID card issued before 2020 are allowed to vote.\"",
+      "verdict": "UNVERIFIED",
+      "explanation": "Unable to fetch real-time sources right now.",
+      "confidence": 50,
+      "claimType": "factual",
+      "sourceQuotes": []
+    },
+    {
+      "id": "claim-5",
+      "createdAt": "2026-05-03T12:05:00.198Z",
+      "claim": "\"The Election Commission has cancelled postal ballots for senior citizens this year.\"",
+      "verdict": "UNVERIFIED",
+      "explanation": "Unable to fetch real-time sources right now.",
+      "confidence": 40,
+      "claimType": "factual",
+      "sourceQuotes": []
+    },
+    {
+      "id": "claim-4",
+      "createdAt": "2026-05-03T12:04:43.236Z",
+      "claim": "\"Counting of votes begins immediately after polling ends on the same day.\"",
+      "verdict": "False",
+      "explanation": "Counting does not begin immediately after polling closes. It starts on the official counting day notified by the Election Commission.",
+      "confidence": 85,
+      "claimType": "factual",
+      "sourceQuotes": [
+        "- Counting of votes does NOT begin immediately after polling ends on the same day; counting starts on the official counting day notified by the Election Commission."
+      ]
+    },
+    {
+      "id": "claim-3",
+      "createdAt": "2026-05-03T11:54:17.712Z",
+      "claim": "The Election Commission has cancelled postal ballots for senior citizens this year.",
+      "verdict": "UNVERIFIED",
+      "explanation": "Unable to fetch real-time sources right now.",
+      "confidence": 40,
+      "claimType": "factual",
+      "sourceQuotes": []
+    },
+    {
+      "id": "claim-2",
+      "createdAt": "2026-05-03T11:53:44.127Z",
+      "claim": "The Election Commission has cancelled postal ballots for senior citizens this year.",
+      "verdict": "UNVERIFIED",
+      "explanation": "Unable to fetch real-time sources right now.",
+      "confidence": 40,
+      "claimType": "factual",
+      "sourceQuotes": []
+    },
+    {
+      "id": "claim-1",
+      "createdAt": "2026-05-03T11:50:49.985Z",
+      "claim": "The Election Commission has cancelled postal ballots for senior citizens this year.",
+      "verdict": "UNVERIFIED",
+      "explanation": "Unable to fetch real-time sources right now.",
+      "confidence": 40,
+      "claimType": "factual",
+      "sourceQuotes": []
+    }
+  ],
+  "feedback": [
+    {
+      "id": "feedback-19",
+      "claimId": "claim-17",
+      "helpful": true,
+      "comment": "",
+      "createdAt": "2026-05-03T12:27:10.873Z",
+      "foundClaim": true
+    },
+    {
+      "id": "feedback-18",
+      "claimId": "claim-17",
+      "helpful": true,
+      "comment": "",
+      "createdAt": "2026-05-03T12:27:09.892Z",
+      "foundClaim": true
+    },
+    {
+      "id": "feedback-16",
+      "claimId": "claim-14",
+      "helpful": true,
+      "comment": "",
+      "createdAt": "2026-05-03T12:26:55.975Z",
+      "foundClaim": true
+    },
+    {
+      "id": "feedback-15",
+      "claimId": "claim-14",
+      "helpful": true,
+      "comment": "",
+      "createdAt": "2026-05-03T12:26:52.917Z",
+      "foundClaim": true
+    },
+    {
+      "id": "feedback-12",
+      "claimId": "claim-9",
+      "helpful": true,
+      "comment": "",
+      "createdAt": "2026-05-03T12:07:21.181Z",
+      "foundClaim": true
+    },
+    {
+      "id": "feedback-11",
+      "claimId": "claim-10",
+      "helpful": true,
+      "comment": "",
+      "createdAt": "2026-05-03T12:07:09.402Z",
+      "foundClaim": true
+    }
+  ]
+}
